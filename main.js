@@ -4,7 +4,7 @@ const nounArr = [];
 
 
 
-function randomMessage(adjArr, verbArr, nounArr){
+function randomMessage(adj, verb, noun){
 
 };
 
