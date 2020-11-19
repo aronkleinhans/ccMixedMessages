@@ -14,9 +14,9 @@ This is a portfolio project from Codecademy.com.
 * VS Code
 * git & GitHub
 
-### Language - En
+##### Language - En
 
 #### Contact
 
-##### Author: Aron Kleinhans
+###### Author: Aron Kleinhans
 ###### e-mail: kleinhans.aron@gmail.com
