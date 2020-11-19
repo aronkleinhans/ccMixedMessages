@@ -2,6 +2,10 @@
 
 This is a portfolio project from Codecademy.com.
 
+Build a Node.js console app that generates random messages each time a user runs the program.
+
+###### my flavor: (A random art prompt script)
+
 ## Objectives
 
 * Build a message generator program using JavaScript
