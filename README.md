@@ -4,7 +4,7 @@ This is a portfolio project from Codecademy.com.
 
 Build a Node.js console app that generates random messages each time a user runs the program.
 
-###### my flavor: (A random art prompt script)
+###### (my flavor: A random art prompt script)
 
 ## Objectives
 
@@ -20,7 +20,7 @@ Build a Node.js console app that generates random messages each time a user runs
 
 ##### Language - En
 
-#### Contact
+## Contact
 
 ###### Author: Aron Kleinhans
 ###### e-mail: kleinhans.aron@gmail.com
