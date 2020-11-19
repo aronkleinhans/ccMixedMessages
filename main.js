@@ -19,7 +19,7 @@ function randomMessage(adj, action, noun, place){
         return `${randomItem(adj)} ${randomItem(noun)} ${randomItem(action)} ${randomItem(adj)} ${randomItem(noun)}`;
     }
     else{
-        return `${randomItem(adj)} ${randomItem(noun)} and ${randomItem(adj)} ${randomItem(noun)}`;
+        return `${randomItem(adj)} ${randomItem(noun)} ${randomItem(action)} ${randomItem(place)} and ${randomItem(action)} ${randomItem(adj)} ${randomItem(noun)}`;
     }
 };
 //log message in console.
