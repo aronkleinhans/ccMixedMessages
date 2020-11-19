@@ -6,12 +6,12 @@ const arrs = {
 }
 //choose random item from provided array.
 function randomItem(arr){
-    return arr[Math.floor(Math.random(1) * arr.length)];
+    return arr[Math.floor(Math.random() * arr.length)];
 };
 
 //create random messages in 3 different formats(format chosen randomly).
 function randomMessage(obj){
-    let placeOrNoun = Math.floor(Math.random(1) * 3);
+    let placeOrNoun = Math.floor(Math.random() * 3);
 
     if (placeOrNoun === 0){
         return `${randomItem(obj.adj)} ${randomItem(obj.noun)} ${randomItem(obj.action)} ${randomItem(obj.place)}`; 
