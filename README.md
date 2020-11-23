@@ -16,11 +16,13 @@ Build a Node.js console app that generates random messages each time a user runs
 ## Using
 
 * VS Code
+* Js
 * git & GitHub
 
 ## Language - En
 
 ## Contact
 
-###### Author: Aron Kleinhans
-###### e-mail: kleinhans.aron@gmail.com
+### Author: Aron Kleinhans
+
+### e-mail: kleinhans.aron@gmail.com
