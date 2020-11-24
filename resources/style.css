@@ -1,7 +1,7 @@
 html {
     background-color: whitesmoke;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     color: black;
 
 }
@@ -18,7 +18,7 @@ html {
     font-weight: bolder;
 }
 #output {
-    font-size: 4em;
+    font-size: 3em;
     color: red;
     margin: 100px 50px 100px 50px;
 }
@@ -34,7 +34,12 @@ html {
 .button-container:hover {
     transform: rotate(10deg);
 }
-footer {
-    position: absolute;
-    bottom: 0;
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
