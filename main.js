@@ -1,6 +1,6 @@
 const arrs = {
     adj : ["a beautiful", "a glorious", "an old", "a smelly", "a shiny", "a bald", "an evil", "a holy", "a sticky", "a new", "a fake", "a useless"],
-    action : ["flying above", "jumpinging over", "burning", "smelling", "cleaning", "kissing", "hugging", "watching", "looking at"],
+    action : ["flying above", "jumping over", "burning", "smelling", "cleaning", "kissing", "hugging", "watching", "looking at"],
     noun : ["robot", "princess", "skeleton", "hypocrite", "priest", "goblin", "thief", "angel", "devil", "torch", "PC", "incense", "candle"],
     place : ["a park", "the street", "a room", "a forest", "the sky", "a cloud", "a swamp", "a prison", "the city", "a village", "the glorious outdoors"]
 }
