@@ -35,8 +35,8 @@ article {
     justify-content: center;
     width: 200px;
 }
-#button p {
-    
+#button :hover {
+    transform: rotate(30deg);
 }
 footer {
     justify-content: center;
