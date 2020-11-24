@@ -1,0 +1,45 @@
+html {
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: black;
+
+}
+body {
+    display: flex;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#output {
+    font-size: 4em;
+    background-color: gainsboro;
+    color: red;
+    text-align: center;
+}
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#button {
+    display: flex;
+    border: 2px solid red;
+    border-radius: 20px;
+    background-color: red;
+    color: whitesmoke;
+    font-size: 2em;
+    font-weight: bold;
+    justify-content: center;
+    width: 200px;
+}
+#button p {
+    
+}
+footer {
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+}

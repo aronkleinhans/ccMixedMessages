@@ -16,6 +16,8 @@ Build a Node.js console app that generates random messages each time a user runs
 ## Using
 
 * VS Code
+* HTML
+* CSS
 * Js
 * git & GitHub
 
