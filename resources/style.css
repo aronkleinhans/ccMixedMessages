@@ -36,7 +36,7 @@ article {
     width: 200px;
 }
 .container:hover {
-    transform: rotate(15deg);
+    transform: rotate(5deg);
 }
 footer {
     justify-content: center;
