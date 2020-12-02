@@ -7,6 +7,7 @@ const arrs = {
 //get DOM elements
 const out = document.getElementById("output");
 const btn = document.getElementById("button");
+const bun = document.getElementById("bun");
 //choose random item from provided array.
 function randomItem(arr){
     return arr[Math.floor(Math.random() * arr.length)];
@@ -31,4 +32,7 @@ function showResult() {
     return result[0].toUpperCase() + result.substring(1);
 }
 
-btn.addEventListener("click", function() { out.innerHTML = showResult()});
+btn.addEventListener("click", function() { 
+    bun.style.maxWidth = "20%";
+    out.innerHTML = showResult()
+});
