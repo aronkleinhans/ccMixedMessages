@@ -28,6 +28,7 @@ header img{
 #content {
     min-height: 500px;
     font-weight: bolder;
+    margin: 0 70px 0 70px;
 }
 #output {
     font-size: 3em;
