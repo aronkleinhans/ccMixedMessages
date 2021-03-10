@@ -26,5 +26,3 @@ Build a Node.js console app that generates random messages each time a user runs
 ## Contact
 
 ### Author: Aron Kleinhans
-
-### e-mail: kleinhans.aron@gmail.com
