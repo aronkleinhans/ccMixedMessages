@@ -1,17 +1,14 @@
 # ccMixedMessages
 
-This is a portfolio project from Codecademy.com.
-
-Build a Node.js console app that generates random messages each time a user runs the program.
-
-###### (my flavor: A random art prompt script)
+Built a Node.js console app that generates random messages each time a user runs the program. 
+Plus a simple webpage to show the generated text.
 
 ## Objectives
 
 * Build a message generator program using JavaScript
 * Use Git version control
 * Use command line
-* Develop locally on your computer
+* Add HTML & CSS
 
 ## Using
 
@@ -22,7 +19,5 @@ Build a Node.js console app that generates random messages each time a user runs
 * git & GitHub
 
 ## Language - En
-
-## Contact
 
 ### Author: Aron Kleinhans
