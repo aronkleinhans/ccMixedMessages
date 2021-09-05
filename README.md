@@ -6,8 +6,6 @@ Plus a simple webpage to show the generated text.
 ## Objectives
 
 * Build a message generator program using JavaScript
-* Use Git version control
-* Use command line
 * Add HTML & CSS
 
 ## Tech Used
