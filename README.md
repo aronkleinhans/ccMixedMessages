@@ -10,13 +10,11 @@ Plus a simple webpage to show the generated text.
 * Use command line
 * Add HTML & CSS
 
-## Using
+## Tech Used
 
-* VS Code
 * HTML
 * CSS
 * Js
-* git & GitHub
 
 ## Language - En
 
